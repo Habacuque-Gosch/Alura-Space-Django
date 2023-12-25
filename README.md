@@ -27,14 +27,14 @@ O Alura Space é um projeto desenvolvido durante uma formação da alura do qual
  
 <div align='center'>
     <h1>Aplicação<h1>
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+      <img src="Alura Space.png">
    <a href="">Acessar</a>
 </div>
             
 ## Ferramentas utilizadas
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white")
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-%2307405e.svg?style=for-the-badge&logo=Resquests&logoColor=white)
    
