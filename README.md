@@ -28,6 +28,9 @@ O Alura Space é um projeto desenvolvido durante uma formação da alura do qual
 <div align='center'>
     <h1>Aplicação<h1>
       <img src="Alura Space.png">
+      <img src="conteudo.png">
+      <img src="Django Admin.png">
+      <img src="Django Admin CRM.png">
    <a href="">Acessar</a>
 </div>
             
