@@ -11,15 +11,16 @@ O Alura Space é um projeto desenvolvido durante uma formação da alura do qual
  
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` buscar por galáxias, nebulosas, planetas e estrelas
+:heavy_check_mark: `Funcionalidade 1:` Cadastro na plataforma
 
-:heavy_check_mark: `Funcionalidade 2:` filtrar por galáxias, nebulosas, planetas e estrelas
+:heavy_check_mark: `Funcionalidade 2:` Login na plataforma
 
-:heavy_check_mark: `Funcionalidade 3:` ler e apreciar sobre galáxias, nebulosas, planetas e estrelas
+:heavy_check_mark: `Funcionalidade 3:` buscar por galáxias, nebulosas, planetas e estrelas
 
-:heavy_check_mark: `Funcionalidade 4:` em desenvolvimento
+:heavy_check_mark: `Funcionalidade 4:` filtrar por galáxias, nebulosas, planetas e estrelas
 
-:heavy_check_mark: `Funcionalidade 5:` em desenvolvimento
+:heavy_check_mark: `Funcionalidade 5:` ler e apreciar sobre galáxias, nebulosas, planetas e estrelas
+
         
 <video width="420" height="340" controls="controls">
     <source src="./filme.mp4" type="video/mp4">
