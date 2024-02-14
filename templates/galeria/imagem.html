@@ -15,11 +15,14 @@
                                 <p class="imagem__descricao">{{ fotografia.legenda }}</p>
                                 <p class="imagem__texto">{{ fotografia.descricao }}</p>
                             </div>
+                            {% if not request.user.is_authenticated %}
+                            {% else %}
                             <div style="gap: 1em;">
                                 <a href="{% url 'editar_imagem' fotografia.id %}"><button class="btn btn-success col-12" style="padding: top 5px;">Editar</button></a>
                                 <br>
                                 <a href="{% url 'deletar_imagem' fotografia.id %}"><button class="btn btn-danger col-12" style="padding: top 5px;">Deletar</button></a>
                             </div>
+                            {% endif %}
                         </div>
                     </div>
                 </section>
