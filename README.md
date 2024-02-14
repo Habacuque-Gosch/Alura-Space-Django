@@ -32,7 +32,7 @@ O Alura Space é um projeto desenvolvido durante uma formação da alura do qual
     <img src="midia-git/index.png">
     <img src="midia-git/conteudo.png">
     <img src="midia-git/Django Admin.png">
-    <img src="midia-git/Django Admin CRM.png">
+    <img src="midia-git/Django Admin CMS.png">
     <a href="https://haba.pythonanywhere.com/">Acessar</a>
 </div>
             
