@@ -104,6 +104,7 @@ table {
 .busca__input {
     align-items: center;
     background-color: transparent;
+    color: #FFFFFF;
     border: none;
     font-size: 1rem;
     height: 24px;
@@ -113,8 +114,9 @@ table {
 
 .busca__icone {
     cursor: pointer;
-    width: 2rem;
-    height: 2rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #ff000000;
 }
 
 .cards {

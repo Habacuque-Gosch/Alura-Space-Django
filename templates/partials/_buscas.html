@@ -9,9 +9,9 @@
         {% endfor %}
         <div class="cabecalho__busca">
             <div class="busca__fundo">
-                <form action="{% url 'buscar' %}">
+                <form style="display: flex; align-items: center; padding: 5px;" action="{% url 'buscar' %}">
                     <input class="busca__input" type="text" name="buscar" placeholder="O que você procura?">
-                    <button type="submit">
+                    <button style="background-color: rgba(0, 0, 0, 0); border: none;" type="submit">
                         <img class="busca__icone" src="{% static '/assets/ícones/1x/search.png' %}" alt="ícone de search">
                     </button>
                 </form>
