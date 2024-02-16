@@ -21,12 +21,16 @@
     <div class="pagina-inicial">
         <header class="cabecalho">
             <img src="{% static '/assets/logo/Logo(2).png' %}" alt="Logo da Alura Space" />
-            {% include 'partials/_alertas.html' %}
+            {% for message in messages %}
+            <div class="alert alert-primary">
+                <p id="messages">{{message}}</p>
+            </div>
+            {% endfor %}
             <div class="cabecalho__busca">
                 <div class="busca__fundo">
-                    <form action="{% url 'buscar' %}">
-                        <input  class="busca__input" type="text" name="buscar" placeholder="O que você procura?">
-                        <button type="submit">
+                    <form style="display: flex; align-items: center; padding: 5px;" action="{% url 'buscar' %}">
+                        <input class="busca__input" type="text" name="buscar" placeholder="O que você procura?">
+                        <button style="background-color: rgba(0, 0, 0, 0); border: none;" type="submit">
                             <img class="busca__icone" src="{% static '/assets/ícones/1x/search.png' %}" alt="ícone de search">
                         </button>
                     </form>

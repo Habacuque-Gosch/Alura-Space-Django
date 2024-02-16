@@ -363,7 +363,7 @@ table {
 }
 
 .tags__titulo {
-    margin-right: 4rem;
+    margin-right: 2rem;
 }
 
 .tags__lista {
@@ -374,7 +374,7 @@ table {
     background-color: #D9D9D930;
     margin-right: 1.5rem;
     border-radius: 8px;
-    padding: .8rem .5rem;
+    padding: .5rem .3rem;
     width: 100px;
     text-align: center;
     border: 2px solid transparent;
